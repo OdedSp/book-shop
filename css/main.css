@@ -1,0 +1,28 @@
+.navbar {
+margin-bottom: 50px;
+border-radius: 0;
+}
+.jumbotron {
+margin-bottom: 0;
+}
+       
+footer {
+background-color: #f2f2f2;
+padding: 25px;
+}
+
+.cover-preview {
+    max-height: 188px;
+    max-width: 188px;
+    min-height: 188px;
+    min-width: 188px;
+    margin: auto;
+}
+
+.vote-up {
+    display: inline
+}
+
+.vote-down {
+    display: inline
+}
